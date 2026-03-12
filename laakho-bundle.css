@@ -77,6 +77,8 @@
   .laakho-cards-grid {
       display: flex;
       gap: 13px;
+      position: sticky;
+      top: 0;
       justify-content: space-between;
       align-items: start;
       max-width: 1200px;
